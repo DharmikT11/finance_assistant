@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+streamlit
+nsetools
+feedparser
+sentence-transformers
+faiss-cpu
+transformers
+gtts
+playsound
+openai-whisper
+pydub
