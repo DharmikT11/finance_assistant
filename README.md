@@ -74,29 +74,3 @@ FastAPI, Streamlit
 Dharmik Thakkar
 Internship Task – AI Agent (Voice Finance Assistant)
 
-## 🔼 Step 3: Upload to GitHub
-
-### Go to:
-- [https://github.com/new](https://github.com/new)
-
-### Fill in:
-- Repository name: `finance-assistant`
-- Description: `AI Agentic Voice-Enabled Market Briefing System for Indian Tech Stocks`
-- Set to **Public**
-- Click **Create Repository**
-
----
-
-### Run These Commands in Terminal
-
-```bash
-cd path/to/your/finance-assistant
-
-git init
-git add .
-git commit -m "Initial commit - AI finance assistant"
-git branch -M main
-git remote add origin https://github.com/YOUR_USERNAME/finance-assistant.git
-git push -u origin main
-
-
